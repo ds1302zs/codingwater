@@ -4,7 +4,7 @@
 
 ## 比赛文件规则
 
-#### 点“活动”，点“全国小情书大赛”，点Add Files再点Upload Files，把小情书拍照（或抄下来）上传，拉下来页面，选Create a new branch for this commit and start a pull request.，在底下的框里输入学校班级以及情书作者姓名，点绿色按钮搞定
+#### 点Add Files再点Upload Files，把小情书拍照（或抄下来）上传，拉下来页面，选Create a new branch for this commit and start a pull request.，在底下的框里输入学校班级以及情书作者姓名，点绿色按钮搞定
 
 # 奥利给怪兽提醒您：做错了白费！！！
 
