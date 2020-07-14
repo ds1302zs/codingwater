@@ -22,10 +22,6 @@
 
 ## 流程
 
-```seq
-Andrew->China: Says Hello
-Note right of China: China thinks\nabout it
-China-->Andrew: How are you?
-Andrew->>China: I am good thanks!
-```
+![流程](https://raw.githubusercontent.com/ds1302zs/codingwater/master/%E6%B4%BB%E5%8A%A8/%E5%85%A8%E5%9B%BD%E5%B0%8F%E6%83%85%E4%B9%A6%E5%A4%A7%E8%B5%9B/Snipaste_2020-07-14_14-38-52.png)
+
 # 状态：~~进行中！！~~ 因为连续11天无人参赛，本届比赛提前终止
