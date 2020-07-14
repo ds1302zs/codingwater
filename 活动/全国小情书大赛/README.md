@@ -8,7 +8,7 @@
 
 #### 场地提供方：《酷水》
 
-## 比赛文件规则
+# 比赛文件规则
 
 #### 点Add Files再点Upload Files，把小情书拍照（或抄下来）上传，拉下来页面，有两个选项，选第二个，在底下的框里输入学校班级以及情书作者姓名，点绿色按钮，然后继续点绿色按钮搞定
 
@@ -18,6 +18,20 @@
 
 ----
 
-## [投票规则](https://github.com/ds1302zs/codingwater/issues/1)
+# [投票规则](https://github.com/ds1302zs/codingwater/issues/1)
+
+## 流程
+
+```flow
+st=>start: 比赛开始
+op=>operation: 检测参赛提交
+cond1=>condition: 有人提交?
+o1=>operation: 合并
+e=>end: 进入后台
+
+st->op->cond1
+cond1(yes)->o1
+cond1(no)->op
+```
 
 # 状态：~~进行中！！~~ 因为连续11天无人参赛，本届比赛提前终止
