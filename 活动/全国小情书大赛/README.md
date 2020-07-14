@@ -22,7 +22,7 @@
 
 ## 流程
 
-```flow
+``` flow
 st=>start: 比赛开始
 op=>operation: 检测参赛提交
 cond1=>condition: 有人提交?
