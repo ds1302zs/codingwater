@@ -22,16 +22,15 @@
 
 ## 流程
 
-``` flow
-st=>start: 比赛开始
-op=>operation: 检测参赛提交
-cond1=>condition: 有人提交?
-o1=>operation: 合并
+```flow
+st=>start: 用户登陆
+op=>operation: 登陆操作
+cond=>condition: 登陆成功 Yes or No?
 e=>end: 进入后台
 
-st->op->cond1
-cond1(yes)->o1
-cond1(no)->op
+st->op->cond
+cond(yes)->e
+cond(no)->op
 ```
 
 # 状态：~~进行中！！~~ 因为连续11天无人参赛，本届比赛提前终止
