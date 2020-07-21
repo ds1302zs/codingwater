@@ -2,7 +2,7 @@
 
 ## 长期活动
 
-### 暂无
+### [再见，问答。后会有期](https://github.com/ds1302zs/codingwater/tree/master/活动/再见，问答，后会有期)
 
 ## 周期活动
 
